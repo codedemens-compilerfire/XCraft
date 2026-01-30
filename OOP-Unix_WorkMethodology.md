@@ -4,6 +4,8 @@
 - [Objective-Oriented Programming \& Unix Programming Methodology, inspired by my own thought-work process](#objective-oriented-programming--unix-programming-methodology-inspired-by-my-own-thought-work-process)
   - [Preface](#preface)
     - [Personal Prompt: Reading Comprehension, Writing Process, Cognitive Efficiency](#personal-prompt-reading-comprehension-writing-process-cognitive-efficiency)
+  - [Process](#process)
+    - [The Beginner's mind, and craftmanship](#the-beginners-mind-and-craftmanship)
 
 ## Preface
 
@@ -16,3 +18,8 @@ Importantly, I want to focus on the definition of the constieniousness, Reading 
 
 ***Reference:*** [https://en.wikipedia.org/wiki/Reading_comprehension](https://en.wikipedia.org/wiki/Reading_comprehension)
 
+## Process
+### The Beginner's mind, and craftmanship
+Every session during programming has to start with beginner's mind, and craftmanship (mastery). It means that when approaching the work, one has to remain open in experience of the programming. This has to be based on the premise of the empathy. This means that the source code should be expanded upon, standards reinforced and maintained, proper authoritative control of the source code (the source maintance), as well as approprieation of the given tasks and expansions. If a major module is developed, one has to treat all the followed principles, previously mentioned, and the change in the major modules has to be treated in the work recursively, back-and-forth, and through analysis and approprieation. 
+
+Craftmanship on the other hand dictates, that the given mastery over something has to be maintained and applied. There has to be some principle of growth factors applied. Therefore, the applicable stance of work, the appropriation of the tools, and robust documentation process has to be applied.
