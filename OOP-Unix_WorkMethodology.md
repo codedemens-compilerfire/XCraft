@@ -20,6 +20,7 @@
     - [Robust Discipline (Dutifulness in constieniousness)](#robust-discipline-dutifulness-in-constieniousness)
     - [Perfectionism](#perfectionism)
       - [No space for Dark Triad Behavior](#no-space-for-dark-triad-behavior)
+      - [Social Media](#social-media)
 
 ### Preface
 
@@ -102,3 +103,5 @@ There is no space for Dark Triad behavior. No expansion of the given rigid, unsp
 
 I'm aware that I may be pointing too much on the psychology-related aspects of the given, but I believe these are at upmost important and shouldn't be skipped, that's why I'm mentioning them. 
 
+#### Social Media
+There is this issue with social media that it fosters depression and anxiety, especially when is overused. That's why I believe we should build communities that are oriented on love and pro-activity. Social media hijack our attention span, it constrains the ability to function and makes us more focused on superstitious perfomance rather than true authentic growth approaches. That's why, I personally believe, that when using these technologies, given aspects of reality should be treated as informations, rather than axioms, mainly, because social media such as Facebook are rooted in general in a very specific vague form of engagement. There is a form of comparison that stem from overusage of Facebook.
