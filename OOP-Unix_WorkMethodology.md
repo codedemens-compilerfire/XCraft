@@ -10,6 +10,7 @@
     - [Engagement](#engagement)
     - [Focus of the mind](#focus-of-the-mind)
     - [Alike Enneagram 5w6 Programmer](#alike-enneagram-5w6-programmer)
+      - [Placeholding](#placeholding)
     - [The Beginner's mind, and craftmanship](#the-beginners-mind-and-craftmanship)
     - [One thing - working in the universal principle](#one-thing---working-in-the-universal-principle)
     - [About Psychological Resillience](#about-psychological-resillience)
@@ -55,6 +56,9 @@ In general, the focus of the mind should be in approaching the scopes that are w
 This is a more subjective opinion of mine, but I believe that intervention, and detached goal orientation is better than robust, attributive goal orientation (i.e. statements "I'm going to write up to 1000 lines of code up until tomorrow" rather that "I'm going to write (exactly) 756 lines code today")
 
 The enneagram theory of enneagram 5 says, that in order for the enneagram 5w6 to become healthy, is to be more spontaneous in the approach, and using the grouped knowledge in a "enough expert" way, that current given knowledge is enough for the first action-taking and we shouldn't setup overly rigid rule-taking. In a sense, we can goal orient, but better we trouble-shoot what's already in front of our face.
+
+#### Placeholding
+It's a good idea to setup placeholders where given work should be expanded upon, and where to work on through the given cognitive work. By setting up placeholders, where to work upon what, and to what extent. This "to what extent" is very important in the robust routine, mainly, because it constrains but also allows us to develop this routine in the enneagram 5w6 alike manner. Thus, placeholding the given area of the work, and the extent of the work, we can develop properly the given work parts in the given future-forth timeframe.
 
 ### The Beginner's mind, and craftmanship
 Every session during programming has to start with beginner's mind, and craftmanship (mastery). It means that when approaching the work, one has to remain open in experience of the programming. This has to be based on the premise of the empathy. This means that the source code should be expanded upon, standards reinforced and maintained, proper authoritative control of the source code (the source maintance), as well as approprieation of the given tasks and expansions. If a major module is developed, one has to treat all the followed principles, previously mentioned, and the change in the major modules has to be treated in the work recursively, back-and-forth, and through analysis and approprieation. 
