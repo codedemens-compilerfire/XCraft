@@ -18,6 +18,7 @@
       - [Deep Work Block](#deep-work-block)
     - [Recovery](#recovery)
     - [Robust Discipline (Dutifulness in constieniousness)](#robust-discipline-dutifulness-in-constieniousness)
+    - [Perfectionism](#perfectionism)
 
 ### Preface
 
@@ -83,3 +84,14 @@ Alikewise in the flow states one has to recharge one's own battery in order to c
 
 ### Robust Discipline (Dutifulness in constieniousness)
 Discipline is many times defined by some authors (especially within the self-help aglomerate/community) as the way to preservere the given aspect of work, within medium to long-term timespan. This aspect is also important in preservation of the work. The given, has to be based on the premise that you should make breaks (recovery) as concise as possible in the context of regeneration and further discipline orientation. This aspect is known as dutifulness facade in constieniousness (in the five-factor model of personality). So alongside the personal motivation (self-discipline), orderliness of the work, etc. there has to be timing in the given efficiency - Dutifulness
+
+### Perfectionism
+There are three major groups of perfectionism, and only one is considered adaptive. But I will argue that even self-oriented perfectionism (the one that is adaptive) is also not healthy form of perfectionism. Mainly because how it manifests in contrast to the trust dynamics. These three major groups of perfectionism are:
+
+ - Self-Oriented Perfectionism (High standards towards oneself, joyful predisposition to unite other individuals)
+ - Other-Oriented Perfectionism (Rigid, impossible to meet standards for others, associated with the Dark Triad Traits)
+ - Socially Prescribed Perfectionism (Approach to overadhere to social rules, social games (Associated with low self-esteem))
+
+Even though it may be counter-intuitive, the perfectionism should be subdued through the pro-active skills; Pro-active approach (life skills, cognitive skills) and psychological resillience. This must be approached the followed way mainly because perfectionism constricts the productivity, and the given rules to a given static self, that this static self shouldn't be changed and is a form of overt taboo. 
+
+This means, for the expansive approach, that the principles should be applied in the open way, that the growth should be forward-looking and that given principles should be proactively trained, and that there is always a possibility of a better way of doing things.
