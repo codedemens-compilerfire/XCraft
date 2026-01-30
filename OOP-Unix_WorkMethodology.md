@@ -14,6 +14,7 @@
     - [Automation](#automation)
     - [Reading \& Retention](#reading--retention)
     - [Robust Organization](#robust-organization)
+    - [Flow States \& Deep Work States](#flow-states--deep-work-states)
 
 ### Preface
 
@@ -68,3 +69,5 @@ I will personally try to read and retent the knowledge from the morning, during 
 ### Robust Organization
 Organization has to be based on the three premises: 1. Current status of the code (How it is organized, what symbol has what status), 2. Expansion (How it can be improved, added upon), 3. Preservation (How the given source functions can be preverved upon). All of these three are in some sense relatable to each other. In same sense, such principles are applicable to this given document, but also other documents. In a sense, reading comprehension has to be maintainced
 
+### Flow States & Deep Work States
+Flow states and Deep Work states are applicable for the work in a way, that increases the ability to expand upon the work. These are the concepts in a sense, but flow states are very efficient in a sense, that allows to flow the positive emotions into the given channel of work. Deep Work States on the other hand are more robust, more appliable with, or relatable to Deliberate Practice routine. These three, have the ability to expand the work to the most expressive form. I have a dream to work upon this video game one year, but implement as many things as I possibly could, not abandoning any element in particular. Alikewise in the paraphaph I wrote about ethical system, I believe building helpful and positive community around the video game has the basis upon which it's worth to develop even such things as video games.
