@@ -5,6 +5,9 @@
     - [Preface](#preface)
     - [Personal Prompt: Reading Comprehension, Writing Process, Cognitive Efficiency](#personal-prompt-reading-comprehension-writing-process-cognitive-efficiency)
   - [Process](#process)
+    - [Priming Command](#priming-command)
+    - [Spacial Learning](#spacial-learning)
+    - [Engagement](#engagement)
     - [The Beginner's mind, and craftmanship](#the-beginners-mind-and-craftmanship)
     - [One thing - working in the universal principle](#one-thing---working-in-the-universal-principle)
     - [About Psychological Resillience](#about-psychological-resillience)
@@ -34,6 +37,15 @@ Importantly, I want to focus on the definition of the constieniousness, Reading 
 ***Reference:*** [https://en.wikipedia.org/wiki/Reading_comprehension](https://en.wikipedia.org/wiki/Reading_comprehension)
 
 ## Process
+### Priming Command
+Priming is predominantly top-down control focus, in order to accomodate abstract-oriented goal. This switch, the decision-making process, which holds multiple elements at the same time, is originated in the prefrontal cortex. Proper priming is required for the initialization of the work process. Taking a pause before a goal orientation, and ideally constraining this goal orientation towards pro-active channel (the daily discipline) is at least suboptimal experience. The perfection doesn't exist, but fostering the positive growth is always adaptable. 
+
+### Spacial Learning
+Spacial learning is similar in principles to studying mathematics. Spacial learning help us to grow the Temporal Lobe of the brain. Thus, when developing a video game we could engage our minds into given spacial training, or originate some kind of discipline that can help us achieve this specific goal
+
+### Engagement
+Engagement with the goal orientation, means, that we pro-actively take steps in the disciplined approach, and we engage more and more scope of the work, or perfect it in the given domain (Deliberate Practice). Motivation stem from the personal needs to grow. Engagement can also mean, that we can expand upon our goals. It's also good to remain steady with the goal orientation we, in general recognize, and acknowledge. Organization of the tasks, systems, dutifulness, and cleanliness, next to pro-active motivation, drive, the juice, is important to maintain.
+
 ### The Beginner's mind, and craftmanship
 Every session during programming has to start with beginner's mind, and craftmanship (mastery). It means that when approaching the work, one has to remain open in experience of the programming. This has to be based on the premise of the empathy. This means that the source code should be expanded upon, standards reinforced and maintained, proper authoritative control of the source code (the source maintance), as well as approprieation of the given tasks and expansions. If a major module is developed, one has to treat all the followed principles, previously mentioned, and the change in the major modules has to be treated in the work recursively, back-and-forth, and through analysis and approprieation. 
 
