@@ -21,4 +21,6 @@ Documentation is available under the [https://compilerfire.com/XCraft/Documentat
 ## Development Diary / Discipline Process / Statistical Productivity
 Development Diary, alongside the Discipline Process is available in the dev/ folder, and is going to be comprehensively documented. This process is graphically represented as calc, but I'm planning to visualilze the process using some kind of program.
 
+[Objective-Oriented Programming & Unix Programming Methodology](OOP-Unix_WorkMethodology.md)
+
 *XCraft is developed by Dawid (Codedemens-Compilerfire) Jakubowski*, and the applicable code are written by Google Gemini, and him, with the emphasis focus on the *Software Engineering (Objective-Oriented Programming) and Unix Development Methodology*
