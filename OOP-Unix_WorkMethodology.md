@@ -10,6 +10,8 @@
     - [About Psychological Resillience](#about-psychological-resillience)
     - [Work with the artificial intelligence agent (i.e. Google Gemini)](#work-with-the-artificial-intelligence-agent-ie-google-gemini)
     - [Detail-Orientation](#detail-orientation)
+    - [Automation](#automation)
+    - [Reading \& Retention](#reading--retention)
 
 ### Preface
 
@@ -50,3 +52,8 @@ This also doesn't mean that AI shouldn't used. My first prototype of procedurall
 ### Detail-Orientation
 Detail orientation is based on the given scope (i.e. algorithms, math, software development, software engineering, etc.), and I personally believe that own detail orientation towards the given algorithms (i.e. generating the ideas in one's own mind, and then applying them into the source code, alongside previously mentioned documentation) are best one can do when it comes to knowledge retention, and appropriation of the system of the video game source code.
 
+### Automation
+Work process should be automated. Meaning, that appropriate applications, IDE(s), tools should be available, and the given usage should be both documentated and automated
+
+### Reading & Retention
+I will personally try to read and retent the knowledge from the morning, during the day and before going to sleep. This way I'll try to memorize, knowledge retent on what I specifically work on. Alongside, I'm going to try to fix given things, in according to the constieniousness approaches, as well as in the flow states. This way I'm going to retent knowledge with regards to what I'm doing.
