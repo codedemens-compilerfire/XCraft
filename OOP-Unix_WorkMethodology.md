@@ -8,6 +8,8 @@
     - [Priming Command](#priming-command)
     - [Spacial Learning](#spacial-learning)
     - [Engagement](#engagement)
+    - [Focus of the mind](#focus-of-the-mind)
+    - [Alike Enneagram 5w6 Programmer](#alike-enneagram-5w6-programmer)
     - [The Beginner's mind, and craftmanship](#the-beginners-mind-and-craftmanship)
     - [One thing - working in the universal principle](#one-thing---working-in-the-universal-principle)
     - [About Psychological Resillience](#about-psychological-resillience)
@@ -45,6 +47,14 @@ Spacial learning is similar in principles to studying mathematics. Spacial learn
 
 ### Engagement
 Engagement with the goal orientation, means, that we pro-actively take steps in the disciplined approach, and we engage more and more scope of the work, or perfect it in the given domain (Deliberate Practice). Motivation stem from the personal needs to grow. Engagement can also mean, that we can expand upon our goals. It's also good to remain steady with the goal orientation we, in general recognize, and acknowledge. Organization of the tasks, systems, dutifulness, and cleanliness, next to pro-active motivation, drive, the juice, is important to maintain.
+
+### Focus of the mind
+In general, the focus of the mind should be in approaching the scopes that are worked upon. These aspects should be expanded upon, and trained in a very specific manner. First, the focus should be constrained (in deep work block; deliberate practice), and should be also cognitively engaged. We can look at other things in order to increase our cognitive effort, or to even retent (memorize) the knowledge. But more importantly, we should also access the appropriate (applicable) references on how to do given thing.
+
+### Alike Enneagram 5w6 Programmer
+This is a more subjective opinion of mine, but I believe that intervention, and detached goal orientation is better than robust, attributive goal orientation (i.e. statements "I'm going to write up to 1000 lines of code up until tomorrow" rather that "I'm going to write (exactly) 756 lines code today")
+
+The enneagram theory of enneagram 5 says, that in order for the enneagram 5w6 to become healthy, is to be more spontaneous in the approach, and using the grouped knowledge in a "enough expert" way, that current given knowledge is enough for the first action-taking and we shouldn't setup overly rigid rule-taking. In a sense, we can goal orient, but better we trouble-shoot what's already in front of our face.
 
 ### The Beginner's mind, and craftmanship
 Every session during programming has to start with beginner's mind, and craftmanship (mastery). It means that when approaching the work, one has to remain open in experience of the programming. This has to be based on the premise of the empathy. This means that the source code should be expanded upon, standards reinforced and maintained, proper authoritative control of the source code (the source maintance), as well as approprieation of the given tasks and expansions. If a major module is developed, one has to treat all the followed principles, previously mentioned, and the change in the major modules has to be treated in the work recursively, back-and-forth, and through analysis and approprieation. 
