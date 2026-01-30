@@ -19,6 +19,7 @@
     - [Recovery](#recovery)
     - [Robust Discipline (Dutifulness in constieniousness)](#robust-discipline-dutifulness-in-constieniousness)
     - [Perfectionism](#perfectionism)
+      - [No space for Dark Triad Behavior](#no-space-for-dark-triad-behavior)
 
 ### Preface
 
@@ -95,3 +96,9 @@ There are three major groups of perfectionism, and only one is considered adapti
 Even though it may be counter-intuitive, the perfectionism should be subdued through the pro-active skills; Pro-active approach (life skills, cognitive skills) and psychological resillience. This must be approached the followed way mainly because perfectionism constricts the productivity, and the given rules to a given static self, that this static self shouldn't be changed and is a form of overt taboo. 
 
 This means, for the expansive approach, that the principles should be applied in the open way, that the growth should be forward-looking and that given principles should be proactively trained, and that there is always a possibility of a better way of doing things.
+
+#### No space for Dark Triad Behavior
+There is no space for Dark Triad behavior. No expansion of the given rigid, unspoken rules, or overly abusive perfectionism. There is no space for trolling, or bullshitting, or any form of antisocial or passive-agressive behavior. These are also applying to me. Daily rehearsal of empathy, empathic listening, as well as psychotherapeutic crunches, in order to improve empathy, love, and compassion, are neccesary to foster positive connections with others. Moreover, I personally view that empathy is so essential for productivity, that it may be even more important than merely the constieniousness trait. Even if the latter is many times important for the productivity aspect in itself, empathy is important for love and connection. 
+
+I'm aware that I may be pointing too much on the psychology-related aspects of the given, but I believe these are at upmost important and shouldn't be skipped, that's why I'm mentioning them. 
+
