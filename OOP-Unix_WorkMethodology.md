@@ -15,6 +15,7 @@
     - [Reading \& Retention](#reading--retention)
     - [Robust Organization](#robust-organization)
     - [Flow States \& Deep Work States](#flow-states--deep-work-states)
+      - [Deep Work Block](#deep-work-block)
 
 ### Preface
 
@@ -71,3 +72,6 @@ Organization has to be based on the three premises: 1. Current status of the cod
 
 ### Flow States & Deep Work States
 Flow states and Deep Work states are applicable for the work in a way, that increases the ability to expand upon the work. These are the concepts in a sense, but flow states are very efficient in a sense, that allows to flow the positive emotions into the given channel of work. Deep Work States on the other hand are more robust, more appliable with, or relatable to Deliberate Practice routine. These three, have the ability to expand the work to the most expressive form. I have a dream to work upon this video game one year, but implement as many things as I possibly could, not abandoning any element in particular. Alikewise in the paraphaph I wrote about ethical system, I believe building helpful and positive community around the video game has the basis upon which it's worth to develop even such things as video games.
+
+#### Deep Work Block
+I'm highly advocating for a form of a discipline similar to which is available for writers. An isolated environment upon which a programmer codes given aspect, and the environment is also ascetic one, devoid of dopamine-seeking, and applicable with the training itself. Deep Work Blocks should be also conservative in some sense, they are possibly to be held in a manner that allows for conservation of the work, and also applicable toolset, mastery.
