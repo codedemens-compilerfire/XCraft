@@ -14,6 +14,7 @@
       - [Self-Confirmation of the efficiency](#self-confirmation-of-the-efficiency)
     - [Iterative Process (Scientific method)](#iterative-process-scientific-method)
     - [The Beginner's mind, and craftmanship](#the-beginners-mind-and-craftmanship)
+    - [Deliberate Practice](#deliberate-practice)
     - [One thing - working in the universal principle](#one-thing---working-in-the-universal-principle)
     - [About Psychological Resillience](#about-psychological-resillience)
     - [Work with the artificial intelligence agent (i.e. Google Gemini)](#work-with-the-artificial-intelligence-agent-ie-google-gemini)
@@ -74,6 +75,11 @@ We should treat our work routine as iterative, scientific process. The given app
 Every session during programming has to start with beginner's mind, and craftmanship (mastery). It means that when approaching the work, one has to remain open in experience of the programming. This has to be based on the premise of the empathy. This means that the source code should be expanded upon, standards reinforced and maintained, proper authoritative control of the source code (the source maintance), as well as approprieation of the given tasks and expansions. If a major module is developed, one has to treat all the followed principles, previously mentioned, and the change in the major modules has to be treated in the work recursively, back-and-forth, and through analysis and approprieation. 
 
 Craftmanship on the other hand dictates, that the given mastery over something has to be maintained and applied. There has to be some principle of growth factors applied. Therefore, the applicable stance of work, the appropriation of the tools, and robust documentation process has to be applied.
+
+
+
+### Deliberate Practice
+Deliberate Practice dictates for us, that each perfected step of the skill takes a great block of effort, and it increases only to some extent. In this regards, the endurativeness nature of the work many times, if not most of the times outperform the perfectionism based, rigid-rules framework of such. Deliberate Practice thus has to be maintained only to perfect our skillset. And we must understand that there are only a given sets of skills, and these, are to be trained like back-and-forth, in order to increase our capacity for intelligence.
 
 ### One thing - working in the universal principle
 One thing, for instance, a function, a class, a struct, enum class, etc. is responsible for one thing in particular, in the universal principle. One thing has to be perfectly documented, has to be in place, has to have it's hierarchy, and the given code so that it's so universally coherent, that it allows to be applicable in every context. Moreover, it has to be tested, meaning, that given source code is applicable when it passes the unit test, or the realtime testing.
