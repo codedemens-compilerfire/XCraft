@@ -7,6 +7,7 @@
   - [Process](#process)
     - [The Beginner's mind, and craftmanship](#the-beginners-mind-and-craftmanship)
     - [One thing - working in the universal principle](#one-thing---working-in-the-universal-principle)
+    - [About Psychological Resillience](#about-psychological-resillience)
 
 ## Preface
 
@@ -27,3 +28,6 @@ Craftmanship on the other hand dictates, that the given mastery over something h
 
 ### One thing - working in the universal principle
 One thing, for instance, a function, a class, a struct, enum class, etc. is responsible for one thing in particular, in the universal principle. One thing has to be perfectly documented, has to be in place, has to have it's hierarchy, and the given code so that it's so universally coherent, that it allows to be applicable in every context. Moreover, it has to be tested, meaning, that given source code is applicable when it passes the unit test, or the realtime testing.
+
+### About Psychological Resillience
+Psychological Resillience has to be maintained throughout the work process. There are many processes that can disrupt the concentration over the project, and psychological resilience is a channel upon which one can increase one's own effort. It means that over the given facade of possible cognition, psychological resilience acts as a antifragility principle. It allows to maintain the given focus, conserve (preserve) it
