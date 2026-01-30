@@ -1,7 +1,7 @@
 
-# Motivational Book about Discipline
+# Motivational Book about Discipline & Programming Principles
 
-- [Motivational Book about Discipline](#motivational-book-about-discipline)
+- [Motivational Book about Discipline \& Programming Principles](#motivational-book-about-discipline--programming-principles)
     - [Preface](#preface)
     - [Personal Prompt: Reading Comprehension, Writing Process, Cognitive Efficiency](#personal-prompt-reading-comprehension-writing-process-cognitive-efficiency)
   - [Process](#process)
