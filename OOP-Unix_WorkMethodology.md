@@ -10,6 +10,7 @@
     - [About Psychological Resillience](#about-psychological-resillience)
     - [Work with the artificial intelligence agent (i.e. Google Gemini)](#work-with-the-artificial-intelligence-agent-ie-google-gemini)
     - [Detail-Orientation](#detail-orientation)
+    - [The Upmost Principle](#the-upmost-principle)
     - [Automation](#automation)
     - [Reading \& Retention](#reading--retention)
 
@@ -51,6 +52,11 @@ This also doesn't mean that AI shouldn't used. My first prototype of procedurall
 
 ### Detail-Orientation
 Detail orientation is based on the given scope (i.e. algorithms, math, software development, software engineering, etc.), and I personally believe that own detail orientation towards the given algorithms (i.e. generating the ideas in one's own mind, and then applying them into the source code, alongside previously mentioned documentation) are best one can do when it comes to knowledge retention, and appropriation of the system of the video game source code.
+
+### The Upmost Principle
+We shouldn't hord information, tools, or principles, but also we should be approaching the given things with the certainty that these should be held with the given principles in mind. These principles, the moral axioms, should be stemming from the self-discipline, to distinguish them from the consequentialist/utilitarian frameworks, to the ethical values. This means, that the given system we are maintainer of, we are maintaning something that is for ethical, and not unethical stasis. This is important, because the given tool can be used in a way that's constructive, or in a way that's is not. This also refers to the video games.
+
+Example of this is that addiction to video games can increase agression. Therefore, we should emplace, in a video, even as a tool, a mechanism, a comprehension, and appropriate guideliner, an authentic one, even in the source code, that guides through moral decision making. This is important, even more important than the constieniousness (productivity) itself.
 
 ### Automation
 Work process should be automated. Meaning, that appropriate applications, IDE(s), tools should be available, and the given usage should be both documentated and automated
