@@ -16,6 +16,8 @@
     - [Robust Organization](#robust-organization)
     - [Flow States \& Deep Work States](#flow-states--deep-work-states)
       - [Deep Work Block](#deep-work-block)
+    - [Recovery](#recovery)
+    - [Robust Discipline (Dutifulness in constieniousness)](#robust-discipline-dutifulness-in-constieniousness)
 
 ### Preface
 
@@ -75,3 +77,9 @@ Flow states and Deep Work states are applicable for the work in a way, that incr
 
 #### Deep Work Block
 I'm highly advocating for a form of a discipline similar to which is available for writers. An isolated environment upon which a programmer codes given aspect, and the environment is also ascetic one, devoid of dopamine-seeking, and applicable with the training itself. Deep Work Blocks should be also conservative in some sense, they are possibly to be held in a manner that allows for conservation of the work, and also applicable toolset, mastery.
+
+### Recovery
+Alikewise in the flow states one has to recharge one's own battery in order to continue, the recovery towards the deliberate practice has to be based on the personal resilience. This personal resilience also should have the capacity to grow and expand, it should have the capacity to increase one's own capacity for the given work routine.
+
+### Robust Discipline (Dutifulness in constieniousness)
+Discipline is many times defined by some authors (especially within the self-help aglomerate/community) as the way to preservere the given aspect of work, within medium to long-term timespan. This aspect is also important in preservation of the work. The given, has to be based on the premise that you should make breaks (recovery) as concise as possible in the context of regeneration and further discipline orientation. This aspect is known as dutifulness facade in constieniousness (in the five-factor model of personality). So alongside the personal motivation (self-discipline), orderliness of the work, etc. there has to be timing in the given efficiency - Dutifulness
