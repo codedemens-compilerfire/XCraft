@@ -13,6 +13,7 @@
     - [The Upmost Principle](#the-upmost-principle)
     - [Automation](#automation)
     - [Reading \& Retention](#reading--retention)
+    - [Robust Organization](#robust-organization)
 
 ### Preface
 
@@ -63,3 +64,7 @@ Work process should be automated. Meaning, that appropriate applications, IDE(s)
 
 ### Reading & Retention
 I will personally try to read and retent the knowledge from the morning, during the day and before going to sleep. This way I'll try to memorize, knowledge retent on what I specifically work on. Alongside, I'm going to try to fix given things, in according to the constieniousness approaches, as well as in the flow states. This way I'm going to retent knowledge with regards to what I'm doing.
+
+### Robust Organization
+Organization has to be based on the three premises: 1. Current status of the code (How it is organized, what symbol has what status), 2. Expansion (How it can be improved, added upon), 3. Preservation (How the given source functions can be preverved upon). All of these three are in some sense relatable to each other. In same sense, such principles are applicable to this given document, but also other documents. In a sense, reading comprehension has to be maintainced
+
