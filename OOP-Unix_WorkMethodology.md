@@ -8,6 +8,7 @@
     - [The Beginner's mind, and craftmanship](#the-beginners-mind-and-craftmanship)
     - [One thing - working in the universal principle](#one-thing---working-in-the-universal-principle)
     - [About Psychological Resillience](#about-psychological-resillience)
+    - [Work with the artificial intelligence agent (i.e. Google Gemini)](#work-with-the-artificial-intelligence-agent-ie-google-gemini)
 
 ## Preface
 
@@ -31,3 +32,9 @@ One thing, for instance, a function, a class, a struct, enum class, etc. is resp
 
 ### About Psychological Resillience
 Psychological Resillience has to be maintained throughout the work process. There are many processes that can disrupt the concentration over the project, and psychological resilience is a channel upon which one can increase one's own effort. It means that over the given facade of possible cognition, psychological resilience acts as a antifragility principle. It allows to maintain the given focus, conserve (preserve) it
+
+### Work with the artificial intelligence agent (i.e. Google Gemini)
+I don't want to lie, but I prefer Google Gemini over ChatGPT predomintantely because of how Google Gemini presents the data, and it's not generating strange, artificial persuasive approach. 
+
+But more importantly, I believe that the work routine should be created in a following way: Firstly, not the artificial intelligence should be asked, but rather, if one wants to find information about the given aspect, one should first use google search. It's not merely for the ecological or/and conservative purposes, but because there is already information available on the internet, and I believe in the ability to search the information on the internet as the one of the possible skills that there is. Secondly, and possibly even more importantly, the ability to generate an idea on one's own, and then adapting through own self-thinking process, is somewhat superior to programming using the agent which extends cognition, and offloads it to the scaffolding. 
+
