@@ -11,6 +11,7 @@
     - [Focus of the mind](#focus-of-the-mind)
     - [Alike Enneagram 5w6 Programmer](#alike-enneagram-5w6-programmer)
       - [Placeholding](#placeholding)
+      - [Self-Confirmation of the efficiency](#self-confirmation-of-the-efficiency)
     - [The Beginner's mind, and craftmanship](#the-beginners-mind-and-craftmanship)
     - [One thing - working in the universal principle](#one-thing---working-in-the-universal-principle)
     - [About Psychological Resillience](#about-psychological-resillience)
@@ -59,6 +60,9 @@ The enneagram theory of enneagram 5 says, that in order for the enneagram 5w6 to
 
 #### Placeholding
 It's a good idea to setup placeholders where given work should be expanded upon, and where to work on through the given cognitive work. By setting up placeholders, where to work upon what, and to what extent. This "to what extent" is very important in the robust routine, mainly, because it constrains but also allows us to develop this routine in the enneagram 5w6 alike manner. Thus, placeholding the given area of the work, and the extent of the work, we can develop properly the given work parts in the given future-forth timeframe.
+
+#### Self-Confirmation of the efficiency
+This one may be one of the most important issues. We must not abandon the productive ways, we must setup robust Deep Work blocks where we work. Or, more, may it apply, to me? Nevertheless, self-confirming of how much one has done in the given timeframe, and focusing forward, to do even more, is important in the self-efficacy and self-discipline manner. We must feel that we're going forward, toward the future, for the given applicable, positive, goal orientation.
 
 ### The Beginner's mind, and craftmanship
 Every session during programming has to start with beginner's mind, and craftmanship (mastery). It means that when approaching the work, one has to remain open in experience of the programming. This has to be based on the premise of the empathy. This means that the source code should be expanded upon, standards reinforced and maintained, proper authoritative control of the source code (the source maintance), as well as approprieation of the given tasks and expansions. If a major module is developed, one has to treat all the followed principles, previously mentioned, and the change in the major modules has to be treated in the work recursively, back-and-forth, and through analysis and approprieation. 
