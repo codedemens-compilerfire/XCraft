@@ -1,7 +1,7 @@
 
-# Objective-Oriented Programming & Unix Programming Methodology, inspired by my own thought-work process
+# Motivational Book about Discipline
 
-- [Objective-Oriented Programming \& Unix Programming Methodology, inspired by my own thought-work process](#objective-oriented-programming--unix-programming-methodology-inspired-by-my-own-thought-work-process)
+- [Motivational Book about Discipline](#motivational-book-about-discipline)
     - [Preface](#preface)
     - [Personal Prompt: Reading Comprehension, Writing Process, Cognitive Efficiency](#personal-prompt-reading-comprehension-writing-process-cognitive-efficiency)
   - [Process](#process)
@@ -14,6 +14,7 @@
       - [Self-Confirmation of the efficiency](#self-confirmation-of-the-efficiency)
     - [Iterative Process (Scientific method)](#iterative-process-scientific-method)
     - [The Beginner's mind, and craftmanship](#the-beginners-mind-and-craftmanship)
+    - [Big Dream](#big-dream)
     - [Deliberate Practice](#deliberate-practice)
     - [One thing - working in the universal principle](#one-thing---working-in-the-universal-principle)
     - [About Psychological Resillience](#about-psychological-resillience)
@@ -76,7 +77,7 @@ Every session during programming has to start with beginner's mind, and craftman
 
 Craftmanship on the other hand dictates, that the given mastery over something has to be maintained and applied. There has to be some principle of growth factors applied. Therefore, the applicable stance of work, the appropriation of the tools, and robust documentation process has to be applied.
 
-
+### Big Dream
 
 ### Deliberate Practice
 Deliberate Practice dictates for us, that each perfected step of the skill takes a great block of effort, and it increases only to some extent. In this regards, the endurativeness nature of the work many times, if not most of the times outperform the perfectionism based, rigid-rules framework of such. Deliberate Practice thus has to be maintained only to perfect our skillset. And we must understand that there are only a given sets of skills, and these, are to be trained like back-and-forth, in order to increase our capacity for intelligence.
