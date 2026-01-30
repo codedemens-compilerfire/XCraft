@@ -12,6 +12,7 @@
     - [Alike Enneagram 5w6 Programmer](#alike-enneagram-5w6-programmer)
       - [Placeholding](#placeholding)
       - [Self-Confirmation of the efficiency](#self-confirmation-of-the-efficiency)
+    - [Iterative Process (Scientific method)](#iterative-process-scientific-method)
     - [The Beginner's mind, and craftmanship](#the-beginners-mind-and-craftmanship)
     - [One thing - working in the universal principle](#one-thing---working-in-the-universal-principle)
     - [About Psychological Resillience](#about-psychological-resillience)
@@ -63,6 +64,11 @@ It's a good idea to setup placeholders where given work should be expanded upon,
 
 #### Self-Confirmation of the efficiency
 This one may be one of the most important issues. We must not abandon the productive ways, we must setup robust Deep Work blocks where we work. Or, more, may it apply, to me? Nevertheless, self-confirming of how much one has done in the given timeframe, and focusing forward, to do even more, is important in the self-efficacy and self-discipline manner. We must feel that we're going forward, toward the future, for the given applicable, positive, goal orientation.
+
+In this regards, we should focus 
+
+### Iterative Process (Scientific method)
+We should treat our work routine as iterative, scientific process. The given appropriation of the knowledge, and the appropriate system setup for the work discipline, should guide us in the given approach. The iterative process is here to incrementally improve the objective measurement of the results. Iterative process; scientific method can also mean proper standarization of the work effort, meaning, that it is a bridge, effectively bridging the gaps, of what's known and what is supposed; hypothesis
 
 ### The Beginner's mind, and craftmanship
 Every session during programming has to start with beginner's mind, and craftmanship (mastery). It means that when approaching the work, one has to remain open in experience of the programming. This has to be based on the premise of the empathy. This means that the source code should be expanded upon, standards reinforced and maintained, proper authoritative control of the source code (the source maintance), as well as approprieation of the given tasks and expansions. If a major module is developed, one has to treat all the followed principles, previously mentioned, and the change in the major modules has to be treated in the work recursively, back-and-forth, and through analysis and approprieation. 
