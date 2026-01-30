@@ -24,3 +24,6 @@ Development Diary, alongside the Discipline Process is available in the dev/ fol
 [Objective-Oriented Programming & Unix Programming Methodology](OOP-Unix_WorkMethodology.md)
 
 *XCraft is developed by Dawid (Codedemens-Compilerfire) Jakubowski*, and the applicable code are written by Google Gemini, and him, with the emphasis focus on the *Software Engineering (Objective-Oriented Programming) and Unix Development Methodology*
+
+## Game Desgin Document
+[Game Design Document](Game%20Design%20Document.md)
